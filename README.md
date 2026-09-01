@@ -4,7 +4,7 @@ A modern, responsive, interactive **Ice Cream Shop web application** that simula
 
 The project is designed as a **real-world style frontend application** with animations, interactive actions, live menu management, order tracking, cart management, location/map support, and responsive UI.
 
-
+---
 
 ## 🚀 Live Project Concept
 
@@ -38,7 +38,7 @@ Order Confirmation
 Track Order
 ```
 
-
+---
 
 ## ✨ Features
 
@@ -80,7 +80,7 @@ The application dynamically updates:
 * Journey progress
 * Arrival status
 
-
+---
 
 ## 🍨 Real-Time Ice Cream Menu
 
@@ -108,7 +108,7 @@ The menu supports dynamic interaction.
 * Add to cart
 * Quantity control
 
-
+---
 
 ## 🛒 Smart Shopping Cart
 
@@ -138,7 +138,7 @@ Tax              ₹11
 Total            ₹231
 ```
 
-
+---
 
 ## 🍦 Ice Cream Customization
 
@@ -170,7 +170,7 @@ Customers can select:
 
 The checkout interface changes according to the selected payment method.
 
-
+---
 
 ## 🎟️ Coupon System
 
@@ -186,7 +186,7 @@ Apply the coupon to receive a discount on the order.
 
 The application automatically recalculates the final price.
 
-
+---
 
 ## 📦 Order Management
 
@@ -212,6 +212,7 @@ Status:
 ○ Completed
 ```
 
+---
 
 ## 📍 Order Tracking
 
@@ -231,7 +232,7 @@ Completed
 
 Progress updates dynamically.
 
-
+---
 
 ## ⭐ Rating & Review
 
@@ -245,6 +246,7 @@ Customers can rate their experience.
 
 Customers can also submit feedback.
 
+---
 
 ## 🔔 Notifications
 
@@ -258,6 +260,7 @@ Interactive notifications for:
 * Order placed
 * Order ready
 
+---
 
 ## 🌙 Dark Mode
 
@@ -268,6 +271,7 @@ Supports:
 
 Theme preference can be maintained during the session.
 
+---
 
 ## 📱 Responsive Design
 
@@ -280,6 +284,7 @@ The application is responsive across:
 
 The interface automatically adapts to different screen sizes.
 
+---
 
 ## 🗺️ Interactive Map
 
@@ -319,6 +324,7 @@ The application provides dynamic frontend behavior such as:
 * Dynamic payment selection
 * Dynamic theme switching
 
+---
 
 ## 🧠 Smart Features
 
@@ -356,6 +362,7 @@ Limited
 Out of Stock
 ```
 
+---
 
 ## 📊 Customer Experience Dashboard
 
@@ -368,6 +375,7 @@ The application can display:
 * Favorite products
 * Recent orders
 
+---
 
 ## 🧑‍💻 Technologies Used
 
@@ -383,6 +391,7 @@ The application can display:
 
 > The complete frontend application is implemented in a single `index.html` file.
 
+---
 
 ## 📁 Project Structure
 
@@ -399,7 +408,7 @@ The main application is contained inside:
 index.html
 ```
 
-
+---
 
 ## ▶️ How to Run
 
@@ -415,6 +424,7 @@ index.html
 
 in your browser.
 
+---
 
 ### Method 2 — VS Code
 
@@ -434,6 +444,7 @@ and select:
 Open with Live Server
 ```
 
+---
 
 ## 🔧 GitHub Setup
 
@@ -455,6 +466,7 @@ Open the project:
 index.html
 ```
 
+---
 
 ## 📸 Application Flow
 
@@ -492,6 +504,7 @@ index.html
 └───────────────┘
 ```
 
+---
 
 ## 🎯 Project Objective
 
@@ -510,7 +523,7 @@ The objective of this project is to create a realistic digital ice cream shoppin
 11. Track the order.
 12. Provide a rating and review.
 
-
+---
 
 ## 💼 Real-World Use Cases
 
@@ -524,6 +537,7 @@ This project demonstrates concepts useful for:
 * Local businesses
 * Digital ordering systems
 
+---
 
 ## 🔮 Future Enhancements
 
@@ -545,6 +559,7 @@ Possible future versions can include:
 * WhatsApp order notifications
 * AI-based recommendations
 
+---
 
 ## 👩‍💻 Author
 
@@ -554,6 +569,7 @@ B.Tech Computer Science Engineering
 
 GitHub: **msanjeevani**
 
+---
 
 ## ⭐ Support
 
